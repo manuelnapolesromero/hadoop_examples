@@ -1,2 +1,2 @@
 # hadoop_examples
-Hadoop examples for Herramientas 
+Hadoop examples for Herramientas Avanzadas para Grandes Volumenes de Datos
