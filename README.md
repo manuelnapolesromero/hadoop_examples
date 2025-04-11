@@ -1,7 +1,7 @@
 # hadoop_examples
 *Hadoop: Ejemplo para Herramientas Avanzadas para Grandes Volumenes de Datos*
 
-**Conteo de Palabras con MapReduce en Docker Hadoop**
+# **Conteo de Palabras con MapReduce en Docker Hadoop**
 
 Este tutorial describe los pasos para ejecutar un ejemplo básico de MapReduce (conteo de palabras) utilizando un entorno Docker de Hadoop. El proceso incluye:
 
@@ -26,7 +26,7 @@ Este tutorial describe los pasos para ejecutar un ejemplo básico de MapReduce (
 
 
 
-**Conteo de palabras con MapReduce en Docker Hadoop**
+# **Conteo de palabras con MapReduce en Docker Hadoop**
 
 Este tutorial describe los pasos para ejecutar un ejemplo básico de MapReduce (conteo de palabras) utilizando un entorno Docker de Hadoop. El proceso incluye:
 
